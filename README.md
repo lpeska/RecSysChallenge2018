@@ -2,7 +2,7 @@
 Solutions of the KSI CUNI.CZ team for the RecSys Challenge 2018
 
 Dependencies
-- tensorFlow, numpy, pandas, scikit-learn
+- Python 3, tensorFlow, numpy, pandas, scikit-learn
 
 High-level overview
 - our team participated mainly in the creative track of the RecSys Challenge 2018. As additional dataset, we utilized audio features of the tracks as collected through Spotify Audio API: https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/ (see trackFeaturesDownload.py)
